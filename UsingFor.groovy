@@ -1,5 +1,5 @@
 /*author:Dilip bobby*/
-class For { 
+class UsingFor { 
    static void main(String[] args) {
 	
       for(int i = 0;i<5;i++) {
