@@ -1,1 +1,1 @@
-This repo contains Simple groovy starters code
+This repo contains Simple groovy starters code.
